@@ -1,0 +1,26 @@
+{
+  "name": "bdnd_02_decentralized-star-notary-service",
+  "version": "1.0.0",
+  "description": "Udacity Nanodegree - Blockchain Developer Project 2",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CryptoNari/BDND_02_Decentralized-Star-Notary-Service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CryptoNari/BDND_02_Decentralized-Star-Notary-Service/issues"
+  },
+  "homepage": "https://github.com/CryptoNari/BDND_02_Decentralized-Star-Notary-Service#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
